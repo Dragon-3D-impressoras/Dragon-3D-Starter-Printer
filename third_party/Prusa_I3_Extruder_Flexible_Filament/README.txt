@@ -16,8 +16,8 @@
                                   `,,`
 
 
-http://www.thingiverse.com/thing:755164
-Prusa I3 Extruder (Flexible Filament) by coricoco is licensed under the Creative Commons - Attribution - Share Alike license.
+https://www.thingiverse.com/thing:755164
+Prusa I3 Extruder (Flexible Filament)(Mk7/MK8)(BLTouch/18mm Capacitive Sensor/12mm Inductive Sensor)) by coricoco is licensed under the Creative Commons - Attribution - Share Alike license.
 http://creativecommons.org/licenses/by-sa/3.0/
 
 # Summary
@@ -32,6 +32,25 @@ Actualización 23/04/2015 - ventilador de capa
 Actualización 09/07/2015 - Carro eje X, Ahora la version de 1 y 2 extrusores usan el mismo carro. 2 versiones subidas - 3 Lm8uu o 1Lm8Luu + Lm8uu
 Actualización 24/12/2015 - ventilador de capa para volcano 
 Actualización 15/06/2016 - Video de Montaje https://www.youtube.com/watch?v=lY3Mu6cV9Cw&feature=youtu.be
+Actualización 26/01/2017 - Añadido soporte para BLTouch y Sensor Capacitivo 18mm
+Añadida versión optimizada para Mk8 y Mk7
+Ajustes menores en el cuerpo del extusor.
+Añadida ventana para una fácil limpieza de la rueda dentada
+Los tornillos del motor se han cambiado a DIN912 M3x8mm
+Actualización 13/10/2017 - Añadido angulo de salida al conducto del ptfe para evitar que entre demasiado duro y faciliar el montaje del fusor.
+
+Lista de Tornillería
+1 m3x20mm 
+2 m3x40mm
+2 tuerca m3 
+2 m4x16mm
+1 m4x20mm 
+2 mulles para el brazo tensor
+1 mk7
+Para fijar el extrusor a tu carro, depende del espaciador que necesites, con el estandar necesitarás
+
+4 m4x40mm
+4 tuerca m4 
 
 Extruder for Prusa I3/ Steel or similar  
 
@@ -43,3 +62,21 @@ The stepper used is a Nema 17 40mm depth and  a 15mm spacer, check you stepper b
 Update 23/04/2015 - Fan Layer  
 Update 09/07/2015 - X carriage, now simple and dual extruder use same carriage. Two version uploaded - 3 Lm8uu or 1Lm8Luu + Lm8uu
 Update 24/12/2015 - Fan layer for volcano
+Update 26/01/2017 - Added support for BLTouch and Capacitive proximity sensor 18mm
+Added new versión for Mk8 and Mk7 pulleys
+Litte adjustements in measures for proper assembly.
+Added a window to clean the pulley
+Motor Screws changed to regular DIN912 M3x8mm
+Update 13/10/2017 -Added a taper to the ptfe conduit to avoid using the drill in order to assembly the hotend
+
+1 m3x20mm screw
+2 m3x40mm screw
+2 m3 nuts
+2 m4x16mm screw
+1 m4x20mm screw
+2 springs for extruder idler
+1 mk7
+For fixing the extruder to your printer carriague, it depends on your spacer, with the standard you need
+
+4 m4x40mm screws
+4 m4 nuts
